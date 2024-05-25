@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Memnune Tuğba Yalçın
-- Hello, I am Memnune Tuğba Yalçın. My passion lies in discovering hidden stories within data and transforming these stories into strategic insights. As a Data Analyst, I turn data analysis into an art by leveraging technologies such as Excel, SQL, Python, and Power BI. In the ever-evolving world of data, I am here to provide effective and innovative solutions. Through my technological skills, I aim to harness the power of data to add value to business processes.
+Hello, I am Memnune Tuğba Yalçın. My passion lies in discovering hidden stories within data and transforming these stories into strategic insights. As a Data Analyst, I turn data analysis into an art by leveraging technologies such as Excel, SQL, Python, and Power BI. In the ever-evolving world of data, I am here to provide effective and innovative solutions. Through my technological skills, I aim to harness the power of data to add value to business processes.
 
 
 <!--- - 👀 I’m interested in ...
